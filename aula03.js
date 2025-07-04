@@ -1,3 +1,5 @@
+// - Esta foi uma aula prática, já que a aula 02 foi somente conceitos
+
 const { resourceUsage } = require("process");
 
 function verificaIdade(idade) {
