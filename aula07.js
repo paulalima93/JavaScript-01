@@ -22,7 +22,7 @@ frutas.pop();
 console.log(frutas); // ["maçã", "banana", "uva", "laranja"]
 
 //  Removendo o primeiro item do array
-let frutas = ["maçã", "banana", "uva", "laranja"];
+frutas = ["maçã", "banana", "uva", "laranja"];
 frutas.shift();
 console.log(frutas); // ["banana", "uva", "laranja"]
 
