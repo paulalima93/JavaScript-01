@@ -8,8 +8,6 @@
 // Teste a função com pelo menos 2 nomes diferentes.
 // ----------------------------------------
 
-
-
 // ----------------------------------------
 // 2. Crie uma função `somarSegura(a, b)` que:
 // - Converte os parâmetros em números usando Number()
@@ -18,8 +16,6 @@
 // Teste com: números, strings que representam números e strings inválidas.
 // ----------------------------------------
 
-
-
 // ----------------------------------------
 // 3. Crie uma função `maiorNumero(a, b)` que:
 // - Recebe dois números como parâmetros
@@ -27,15 +23,11 @@
 // Teste a função com pelo menos 3 pares de números diferentes
 // ----------------------------------------
 
-
-
 // ----------------------------------------
 // 4. Crie uma expressão de função que calcula o quadrado de um número
 // e uma arrow function que calcula o cubo de um número.
 // Teste ambas com pelo menos 2 números diferentes.
 // ----------------------------------------
-
-
 
 // ----------------------------------------
 // 5. Crie uma função `processar(a, b, operacao)` que:
@@ -46,8 +38,6 @@
 // - Callback anônima que subtrai
 // - Callback que multiplica
 // ----------------------------------------
-
-
 
 // ----------------------------------------
 // 6. Crie uma função `esperarEImprimir(texto, tempo)` que:

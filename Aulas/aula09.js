@@ -21,7 +21,6 @@ const pessoaJSON = `{
 }`;
 
 // Observação: JSON é **texto**, não objeto! Para usar como objeto, precisamos converter.
-
 // ----------------------------------------
 // 🔹 Convertendo JSON para objeto (parse)
 // ----------------------------------------
