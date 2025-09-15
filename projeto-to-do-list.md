@@ -1,3 +1,31 @@
+# Projeto To-Do List – JavaScript
+
+Este projeto tem como objetivo aplicar conceitos de **variáveis, condicionais, loops, arrays, objetos e funções** em JavaScript, criando uma lista de tarefas interativa no terminal.
+
+---
+
+## 📦 Requisitos
+
+- Node.js instalado (versão mínima recomendada: 14+)
+
+---
+
+## ⚙️ Instalação de dependências
+
+Para capturar entradas do usuário no terminal, vamos usar o pacote [`prompt-sync`](https://www.npmjs.com/package/prompt-sync).
+
+1. Abra o terminal na pasta do projeto.
+2. Execute o comando para instalar o pacote:
+
+```bash
+npm install prompt-sync
+```
+
+---
+
+## 📌 Algoritmo Estruturado – To-Do List
+
+### 1. Início do programa
 - Preparar um array vazio para armazenar tarefas.
 
 ### 2. Menu principal
